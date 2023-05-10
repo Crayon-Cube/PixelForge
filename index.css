@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    color:#F9FAF8;
+    font-weight: 900;
+    font-size: 24px;
+}
+.header,.text{
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    flex:1
+}
+.header
+.header{
+    padding-left: 40px;
+    justify-content: space-between;
+}
+.main{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+
+.head{
+    color: #E5E7EB;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.trail{
+    color: #F9FAF8;
+    font-size: 18px;
+    
+}
+
+button{
+    
+}
